@@ -155,6 +155,13 @@ We use reasonable administrative and technical measures designed to protect info
 
 Pollen and its service providers may process information in countries other than the country where you live. Those countries may have different data-protection laws.
 
+## Questions and reports
+For privacy questions or to report a concern, email support@pollenmove.com. Reports made from a
+Leaderboard row include your Pollen account ID, the reported pollen's public leaderboard ID, the
+displayed name, the time of the report, and its review status. They do not send you the reported
+player's private account ID, route, location history, or Garden details. We use reports only to
+review public pollen names and enforce our public-name rules.
+
 ## Changes to this policy
 
 We may update this Privacy Policy as Pollen develops. We will post the updated policy on this page and revise the “Last updated” date. Material changes may also be communicated through the app or TestFlight notes when appropriate.
