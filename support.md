@@ -1,120 +1,166 @@
 ---
-title: Pollen Support
-permalink: /support/
+title: Pollen Privacy Policy
+permalink: /privacy/
 ---
 
-# Pollen Support
+# Privacy Policy for Pollen
 
-Pollen is currently in beta. Thank you for helping us test it.
+**Effective date: July 18, 2026**  
+**Last updated: July 18, 2026**
 
-For help, feedback, privacy questions, or safety concerns, email:
+Pollen (“Pollen,” “we,” “us,” or “our”) is a place-based iPhone game in which your pollen moves through locations, grows your Garden, and may travel through privacy-safe interactions with other players.
 
-support@pollenmove.com
+This Privacy Policy explains what information Pollen collects, how it is used, when it is shared, and the choices available to you.
 
-You can also submit beta feedback directly through the TestFlight app. TestFlight feedback can include a screenshot and diagnostic information that may help us understand the problem.
+## Information we collect
 
-## Getting started
+### Location information
 
-Pollen is currently active in:
+Pollen uses precise location to provide its core gameplay.
 
-- New York City
-- San Francisco
-- Seattle
-- Boston
+When you start a “Join today” session, Pollen may collect precise coordinates and timestamps while the app is open and while it is running in the background. This allows Pollen to:
 
-Pollen needs Precise Location to provide its place-based gameplay.
+- Record movement through locations
+- Determine which locations have been pollinated
+- Place pollen drops
+- Process privacy-safe pickups and journeys
+- Create your Garden, Reveals, Passport, and related gameplay history
 
-To check your location settings:
+A joined session is started by you and automatically expires after a limited period, currently no more than four hours. You can stop collection sooner using “Pause for today” in Settings.
 
-1. Open the iPhone **Settings** app
-2. Select **Privacy & Security**
-3. Select **Location Services**
-4. Select **Pollen**
-5. Allow location access while using the app
-6. Make sure **Precise Location** is turned on
+Pollen does not continuously send your movement to its servers merely because location permission has been granted. Outside a joined session, the app may use your current location on your device to display or center the map while you are using it.
 
-Open Pollen and tap **Join today** to begin a gameplay session. A joined session may continue in the background for up to four hours. You can stop it sooner from **Your Pollen → Settings → Pause for today**.
+Pollen does not show your live location, identity, or route to other players. Other players may receive delayed, coarse, place-based gameplay outcomes without being told who carried pollen or how that person traveled.
 
-## Common problems
+### Account information
 
-### Pollen cannot find my location
+Pollen creates an anonymous app account when you first use the app. This lets you play without providing your name or email address.
 
-- Confirm that Location Services and Precise Location are enabled
-- Confirm that your iPhone has an internet connection
-- Return to Pollen and select **Try again**
-- If necessary, close and reopen the app
+If you choose to use Sign in with Apple, we receive an Apple-linked account identifier and, when Apple provides it, your email address or Apple private relay email address. Pollen does not receive your Apple password.
 
-### Pollen stopped moving with me
+### Pollen name and public leaderboard information
 
-You must select **Join today** each day that you want Pollen to move with you. Joined sessions expire automatically.
+If you name and claim your pollen, its pollen name and score may appear publicly on Pollen’s leaderboard.
 
-Force-quitting Pollen may prevent background movement from continuing. Reopen the app and check the status shown on the Home screen.
+Your email address, account identifier, precise location, and movement history are not displayed on the leaderboard.
 
-### The map is empty or does not load
+### Gameplay and app activity
 
-Pollen’s map requires an internet connection. Try switching between Wi-Fi and cellular data, then reopen the app.
+We collect gameplay information necessary to operate Pollen, which may include:
 
-### I do not see a Reveal or Guess
+- Locations visited or pollinated
+- Pollen drops and privacy-safe pickups
+- Garden progress
+- Guesses and Reveal results
+- Passport entries and earned stamps
+- Map selections
+- Leaderboard score
+- Basic interactions with Pollen’s features
 
-Reveals and guessing games depend on real gameplay events. They may not appear immediately, and a quiet session may not produce a new story.
+If you use the iOS share sheet to share your Garden, sharing is handled by Apple and the service you select. Pollen does not receive the identity of the people with whom you share.
 
-### Sign in with Apple is not working
+### Notifications
 
-Sign in with Apple is optional. You can continue playing anonymously.
+If you allow notifications, Pollen currently schedules gameplay reminders locally on your device. Notification permission is optional. Pollen does not use notifications for advertising.
 
-If you are trying to claim an existing pollen:
+## How we use information
 
-- Confirm that you are connected to the internet
-- Try Sign in with Apple again
-- If the problem continues, send us a screenshot and a description of what happened
+We use information collected through Pollen to:
 
-Never send us your Apple password or verification code.
+- Provide and maintain the game
+- Record movement and calculate gameplay outcomes
+- Generate Gardens, Reveals, guesses, Passport entries, and leaderboards
+- Link your account through Sign in with Apple
+- Preserve your progress across supported devices
+- Respond to support, privacy, and safety requests
+- Protect Pollen from abuse, fraud, and security threats
+- Comply with applicable legal obligations
 
-### Notifications are not appearing
+We do not sell or rent personal information.
 
-Check **iPhone Settings → Notifications → Pollen** and make sure notifications are allowed. Notifications are optional and do not affect your ability to play.
+We do not use your information for third-party advertising, targeted advertising, or cross-app tracking.
 
-## Deleting your history or account
+## How information is shared
 
-Pollen includes deletion controls inside the app.
+We share information only as needed to operate Pollen or comply with the law.
+
+### Service providers
+
+Pollen uses service providers that process limited information on our behalf:
+
+- **Supabase** provides account authentication, database hosting, and backend infrastructure.
+- **Apple** provides Sign in with Apple, TestFlight distribution, notifications, and other iOS services.
+- **OpenFreeMap, OpenMapTiles, and OpenStreetMap** provide or support map data and map tiles. Map providers receive requests for the map areas displayed by the app. Pollen does not intentionally send them your Pollen account identity or gameplay history.
+
+These providers are expected to protect information consistently with their own privacy commitments and applicable law.
+
+### Other players
+
+Other players may see:
+
+- A claimed pollen’s public name and leaderboard score
+- Delayed, coarse, place-based gameplay outcomes
+
+Other players are not shown a carrier’s identity, live location, precise route, email address, or account identifier.
+
+### Legal and safety reasons
+
+We may disclose information if reasonably necessary to comply with the law, respond to valid legal requests, protect the security of Pollen, investigate abuse, or protect the rights and safety of users or others.
+
+## Data retention and deletion
+
+We retain account and gameplay information while your account remains active or as needed to operate Pollen.
+
+You can delete information directly in the app:
 
 1. Open **Pollen**
 2. Open **Your Pollen**
 3. Select **Settings**
 4. Open **Privacy & data**
 
-Select:
+From there:
 
-- **Delete my history** to remove gameplay history while keeping your account and pollen name
-- **Delete my account** to permanently remove your account, pollen identity, and associated gameplay history
+- **Delete my history** removes movement, drops, pickups, personal stories, guesses, Passport entries, stamps, and related gameplay history while keeping your account and pollen identity.
+- **Delete my account** permanently removes your Pollen account, pollen identity, Sign in with Apple connection, and associated gameplay history.
 
-If you cannot open the app or deletion fails, email support@pollenmove.com.
+Some delayed, density-protected, identity-free aggregate map information may remain after deletion. A coarse location already included in another player’s completed story may also remain, but it is not connected to your identity or route.
 
-## Reporting an inappropriate pollen name
+Limited residual copies may remain temporarily in secure infrastructure backups or operational records until they are overwritten under our service providers’ normal retention schedules, or where retention is required by law.
 
-Pollen names and leaderboard scores may be visible to other players.
+If you cannot access the in-app deletion controls, contact us at support@pollenmove.com
 
-To report an offensive, abusive, or inappropriate pollen name, email support@pollenmove.com with:
+## Your choices
 
-- The pollen name
-- A screenshot, if possible
-- The approximate date and time you saw it
+You may:
 
-Do not include your precise location or other sensitive personal information in the report.
+- Decline Sign in with Apple and continue using an anonymous account
+- Decline notification permission
+- Stop an active location session using “Pause for today”
+- Change location or notification permissions in iOS Settings
+- Delete your gameplay history
+- Delete your account
+- Contact us to request access, correction, or deletion of information
 
-## Sending useful beta feedback
+Depending on where you live, you may have additional privacy rights under applicable law.
 
-When reporting a problem, please include:
+## Children’s privacy
 
-- What you expected to happen
-- What actually happened
-- The screen or feature you were using
-- Your iPhone model
-- Your iOS version
-- A screenshot or screen recording, if available
+Pollen is not directed to children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child has provided personal information through Pollen, contact us so we can investigate and delete it where appropriate.
 
-Please do not send passwords, Apple verification codes, or another person’s private information.
+## Security
 
-## Privacy
+We use reasonable administrative and technical measures designed to protect information. However, no method of electronic storage or transmission is completely secure, and we cannot guarantee absolute security.
 
-Read the [Pollen Privacy Policy](../privacy/).
+## International processing
+
+Pollen and its service providers may process information in countries other than the country where you live. Those countries may have different data-protection laws.
+
+## Changes to this policy
+
+We may update this Privacy Policy as Pollen develops. We will post the updated policy on this page and revise the “Last updated” date. Material changes may also be communicated through the app or TestFlight notes when appropriate.
+
+## Contact us
+
+For privacy questions, data requests, account deletion assistance, or concerns about a public pollen name, contact:
+
+support@pollenmove.com
