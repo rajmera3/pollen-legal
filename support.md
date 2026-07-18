@@ -115,6 +115,15 @@ When reporting a problem, please include:
 
 Please do not send passwords, Apple verification codes, or another person’s private information.
 
+**Report a pollen name**
+From the Leaderboard, open the actions button beside the pollen name and choose **Report and
+hide**. The name disappears from your Leaderboard immediately and is sent to us for prompt review.
+You can also email support@pollenmove.com.
+
+Pollen names may not contain abusive, hateful, threatening, sexually explicit, impersonating,
+or personally identifying content. We may reset inappropriate names or remove accounts from
+public display.
+
 ## Privacy
 
 Read the [Pollen Privacy Policy](../privacy/).
